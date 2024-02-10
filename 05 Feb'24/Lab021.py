@@ -1,8 +1,8 @@
-#escape SEQ
+# escape SEQ
 
-#\n - is new line
+# \n - is new line
 print("a\nb")
 
-#\a - bell
-#\t - tab character
+# \a - bell
+# \t - tab character
 # \f - formfeed
