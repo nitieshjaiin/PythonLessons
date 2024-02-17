@@ -8,4 +8,4 @@
 # functions - non-return type, return type and built functions
 # *args and **kwargs
 # lambda expression - solve problems of writing long functions to online
-# last questions from tasks.
+# last question from tasks
