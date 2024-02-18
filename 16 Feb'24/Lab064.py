@@ -1,7 +1,5 @@
 import math
 
-
-
 def sq_root(num):
     return math.sqrt(num)
 

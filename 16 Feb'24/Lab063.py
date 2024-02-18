@@ -1,9 +1,7 @@
 my_list = [2, 2, 3, 4, 5]
 
-
 # map()
 # map - map is a python building function
-
 def sq_num(num):
     return num ** 2
 

@@ -10,7 +10,9 @@ aws = (hero1, hero2)
 print(aws)
 
 print(aws[0])
+print(aws[1])
 print(aws[1][0])
+print(aws[0][0])
 
 # search in tuple
 
