@@ -1,0 +1,6 @@
+Hello Nitish
+How're you doing?
+Hope all is well
+This is an example of reading multiple lines
+
+ This is appending the file
