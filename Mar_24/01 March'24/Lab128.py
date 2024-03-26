@@ -1,4 +1,4 @@
-with open("ted.txt",'r') as file:
+with open("ted.txt", 'r') as file:
     lines = file.readlines()
 
     for line in lines:
